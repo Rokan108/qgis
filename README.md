@@ -20,5 +20,14 @@ Open Ind_adm0.shp file in QGIS Geo-reference the Maharashtra Map at appropriate 
 (Hint: use Image from required Files)
 
 files name:
-Maharashtra Map
+Maharashtra Map(image)
 maharashtra_administrative.shp
+
+
+___________________________________________________________________________________________________________________________________________________________________________
+
+Georeferencing Aerial Imagery. 
+
+files name : 
+IND_adm0.shp
+Bombay 1909(image)
