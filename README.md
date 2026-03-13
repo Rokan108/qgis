@@ -21,3 +21,4 @@ Open Ind_adm0.shp file in QGIS Geo-reference the Maharashtra Map at appropriate 
 
 files name:
 Maharashtra Map
+maharashtra_administrative.shp
